@@ -1,4 +1,4 @@
-:loudspeaker: *The codes contained inside this repository were created with the purpose of preparing for DEFCON24-26 CTF, while participating as a member of the DEFKOR team.*
+:loudspeaker: *All of the codes in this repository were developed by me and brilliant members of DEFKOR for DEFCON23-24*
 
 # emupatch: Patching binary with C 
 Make patches for compiled binary in C.
